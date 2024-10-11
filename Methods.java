@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Methods {
     static Scanner sc = new Scanner(System.in);
 
-    public static int getNum(){
+    public static int getInt(){
         return sc.nextInt();
     }
 
@@ -34,5 +34,5 @@ public class Methods {
         return sc.nextBoolean();
     }
 
-    
+
 }
